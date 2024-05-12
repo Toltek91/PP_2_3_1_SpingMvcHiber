@@ -10,7 +10,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd9944c-0de3-4b82-93a6-f25ea370c96d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/.idea/PP_2_3_1_SpingMvcHiber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/config/HiberConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/controller/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/java/katacademy/userscrud/service/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/webapp/WEB-INF/pages/edit-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/webapp/WEB-INF/pages/user-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/webapp/WEB-INF/pages/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web2/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web2/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../PP_2_3_1_SpingMvcHiber/SpringMvcHiber/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/config/AppInitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/config/AppInitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/config/HiberConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/config/HiberConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/config/JavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/config/JavaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/dao/UserDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/dao/UserDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/java/com/userCRUD/app/services/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/userCRUD/app/services/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/webapp/WEB-INF/views/edit-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/views/edit-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/webapp/WEB-INF/views/user-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/views/user-create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_2_3_1/src/webapp/WEB-INF/views/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/views/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +241,7 @@
       <workItem from="1714894254766" duration="4543000" />
       <workItem from="1715021051160" duration="2149000" />
       <workItem from="1715024908470" duration="228000" />
-      <workItem from="1715478976490" duration="633000" />
+      <workItem from="1715478976490" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="dasfas">
       <option name="closed" value="true" />
