@@ -1,7 +1,6 @@
 package katacademy.userscrud.model;
 
 import jakarta.persistence.*;
-import org.hibernate.annotations.GenericGenerator;
 
 import java.util.Objects;
 @Entity
@@ -13,8 +12,7 @@ public class User {
 
 
     @Id
-    @GeneratedValue(generator = "increment")
-    @GenericGenerator(name = "increment", strategy = "increment")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
     @Column(name = "name")
@@ -79,5 +77,9 @@ public class User {
                 ", email='" + email + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    public User orElseThrow(Object o) {
+        return null;
     }
 }
